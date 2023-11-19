@@ -1,8 +1,6 @@
 Real-time chance-constrained trajectory planning using buffered cell based NMPC
 
-<p float="left">
-https://github.com/xzhao391/Reral-time-Multi-agent-Chance-Constrained-TrajectoryPlanning/assets/107379730/45a85180-de22-4603-9174-c66f55dee157
-</p>
+https://github.com/xzhao391/Reral-time-Multi-agent-Chance-Constrained-TrajectoryPlanning/assets/107379730/45a85180-de22-4603-9174-c66f55dee157|https://github.com/xzhao391/Real-time-Multi-agent-Chance-Constrained-TrajectoryPlanning/assets/107379730/24f6b3c5-e387-432d-abfe-a82b987573d2
 
 Chance-constrained trajectory planning using decentralized NMPC
 
